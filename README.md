@@ -29,11 +29,13 @@ My journey started with Python, but I’ve since moved deeper into the Linux she
   <a href="mailto:ali.mohamed7821@gmail.com">
     <img src="https://img.shields.io/badge/Email-ali.mohamed7821%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mahamed-ali-07284a30a">
+  <a href="https://www.linkedin.com/in/mahamed-ali-07284a30a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/mohameda-li">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
