@@ -6,13 +6,6 @@ My journey started with Python, but I’ve since moved deeper into the Linux she
 
 ---
 
-### 🧠 Current Learning Goals
-- Automating workflows with Bash and Python
-- Understanding infrastructure as code
-- Building CI/CD pipelines and containerized apps
-
----
-
 ### 🧪 Labs
 - 🔐 **OverTheWire Bandit Wargame (0–15)** — Solved Linux-based CTF levels to practice shell navigation and file manipulation [[GitHub Repo](https://github.com/mohameda-li/overthewire)]
 
