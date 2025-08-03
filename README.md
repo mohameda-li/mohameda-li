@@ -24,6 +24,17 @@ My journey started with Python, but I’ve since moved deeper into the Linux she
   [View project](https://github.com/mohameda-li/docker_learning)
 
 
+- 🛎️ **WorldHotels – Hotel Booking System**  
+  A full-stack hotel booking platform built with:
+  - Flask for backend routing and authentication  
+  - MySQL for persistent data storage  
+  - Admin dashboard for managing hotels, bookings, and users  
+  - Dynamic pricing with early-bird discounts  
+  - Docker & Docker Compose for containerization  
+  [View project](https://github.com/mohameda-li/WorldHotels)
+
+
+
 ---
 
 ### 📫 Get In Touch
