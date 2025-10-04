@@ -1,20 +1,19 @@
 ## Hi there 👋
+### 👨‍💻 About Me  
+Hi, I'm **Mahamed Ali**, a **Computer Science student at UWE Bristol** with a passion for **DevOps, cloud engineering, and automation**.  
+I’ve moved beyond just learning tools — I now build, automate, and deploy real systems that bring ideas to life.  
 
-### 👨‍💻 About Me
-Hi! I'm **Mahamed Ali**, a Computer Science undergraduate at **UWE Bristol** passionate about solving problems and building efficient systems.
-My journey started with Python, but I’ve since moved deeper into the Linux shell, DevOps tools and infrastructure automation.
-
----
-
-### 🧪 Labs
-- 🔐 **OverTheWire Bandit Wargame (0–15)** — Solved Linux-based CTF levels to practice shell navigation and file manipulation [[GitHub Repo](https://github.com/mohameda-li/overthewire)]
-
+- 💻 Hands-on with **AWS**, **Docker**, **Linux**, **Git**, and **Bash scripting** through practical DevOps projects.  
+- ⚙️ Experienced in containerising and deploying applications using **Docker Compose** and **AWS services (EC2, ECS, IAM)**.  
+- 🧩 Focused on automation, reliability, and scalability — applying DevOps principles to make development smoother and faster.  
+- 🚀 Constantly learning and improving, exploring **cloud security**, **infrastructure as code**, and **CI/CD pipelines**.  
+- 🤝 Enjoy collaborating, troubleshooting, and sharing knowledge within the DevOps community.  
 
 ---
 
 ### 💼 Projects
 
-- 🐳 **Flask + Redis + Nginx**  
+- Visit-Counting Flask Application
   Built a multi-container web application using Docker Compose:
   - Flask for the web server  
   - Redis for tracking visits  
