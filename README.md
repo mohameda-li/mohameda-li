@@ -14,7 +14,7 @@ My journey started with Python, but I’ve since moved deeper into the Linux she
 
 ### 💼 Projects
 
-- 🐳 **Docker Challenge: Flask + Redis + Nginx**  
+- 🐳 **Flask + Redis + Nginx**  
   Built a multi-container web application using Docker Compose:
   - Flask for the web server  
   - Redis for tracking visits  
