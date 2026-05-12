@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👨‍💻 About Me  
-Hi, I'm **Mahamed Ali**, a **Computer Science student at UWE Bristol** with a passion for **DevOps, cloud engineering, and automation**.  
+Hi, I'm **Mahamed Ali**, a **Computer Science graduate from UWE Bristol** with a passion for **DevOps, cloud engineering and automation**.
 I’ve moved beyond just learning tools — I now build, automate, and deploy real systems that bring ideas to life.  
 
 - 💻 Hands-on with **AWS**, **Docker**, **Linux**, **Git**, and **Bash scripting** through practical DevOps projects.  
@@ -31,6 +31,16 @@ I’ve moved beyond just learning tools — I now build, automate, and deploy re
   - Dynamic pricing with early-bird discounts  
   - Docker & Docker Compose for containerization  
   [View project](https://github.com/mohameda-li/WorldHotels)
+
+- ☁️ **AWS Cost Optimisation Platform**  
+  A serverless FinOps automation platform designed to detect and reduce cloud cost waste across AWS services:
+  - Optimisation modules for **S3, RDS, ECS, EKS and Spot Instances**
+  - AWS Lambda functions triggered through **EventBridge**
+  - CloudWatch-based monitoring and usage analysis
+  - Automated cost-saving recommendations and report generation
+  - Customer deployment bundle using **Terraform**
+  - Built with **Python, Flask, AWS Lambda, S3, IAM, EventBridge and Terraform**
+  [View project](https://github.com/mohameda-li/aws-cost-optimisation-platform)
 
 
 
